@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "指纹提取与识别系统", "指纹提取与识别系统\指纹提取与识别系统.vcproj", "{566F456A-935B-40DF-B8ED-E6C73EF9DF18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{566F456A-935B-40DF-B8ED-E6C73EF9DF18}.Debug|Win32.ActiveCfg = Debug|Win32
+		{566F456A-935B-40DF-B8ED-E6C73EF9DF18}.Debug|Win32.Build.0 = Debug|Win32
+		{566F456A-935B-40DF-B8ED-E6C73EF9DF18}.Release|Win32.ActiveCfg = Release|Win32
+		{566F456A-935B-40DF-B8ED-E6C73EF9DF18}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

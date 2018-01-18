@@ -1,0 +1,7 @@
+; FP.def : Declares the module parameters for the DLL.
+
+LIBRARY      "FP"
+DESCRIPTION  'FP Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
